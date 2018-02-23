@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.example.ted.sharedpref2.MainActivity"
+  tools:layout_editor_absoluteY="81dp">
+
+  <Button
+    android:id="@+id/btnload"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="24dp"
+    android:text="load"
+    app:layout_constraintStart_toStartOf="@+id/etlastname"
+    app:layout_constraintTop_toBottomOf="@+id/etlastname"
+    />
+
+  <Button
+    android:id="@+id/btnsave"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="24dp"
+    android:text="save"
+    app:layout_constraintEnd_toEndOf="@+id/etlastname"
+    app:layout_constraintTop_toBottomOf="@+id/etlastname"
+    />
+
+  <EditText
+    android:id="@+id/etfirstname"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="212dp"
+    android:layout_marginTop="36dp"
+    android:ems="10"
+    android:gravity="center"
+    android:hint="Last name"
+    android:inputType="textPersonName"
+    app:layout_constraintBottom_toTopOf="@+id/textView"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toTopOf="parent"/>
+
+  <EditText
+    android:id="@+id/etlastname"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="18dp"
+    android:ems="10"
+    android:gravity="center"
+    android:hint="First name"
+    android:inputType="textPersonName"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/etfirstname"/>
+
+  <TextView
+    android:id="@+id/textView"
+    android:layout_width="320dp"
+    android:layout_height="0dp"
+    android:layout_marginBottom="146dp"
+    android:gravity="center"
+    android:text="TextView"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/etfirstname"/>
+</android.support.constraint.ConstraintLayout>

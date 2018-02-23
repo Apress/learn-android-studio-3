@@ -1,0 +1,2498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="481420fb-de36-48a3-920f-9c4f468eaf59" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FragmentA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/FragmentA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_a.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Fragments2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Fragments2" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="splitsDiscoveryTaskDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'Fragments2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleAppClassesRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexBuilderForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'Fragments2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createReleaseCompatibleScreenManifests" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mockableAndroidJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleAppClassesDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'Fragments2' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'Fragments2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexBuilderForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleAppClassesReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build cache directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'Fragments2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="splitsDiscoveryTaskDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleAppClassesDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createDebugCompatibleScreenManifests" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareLintJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="deviceAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Fragments2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="writeDebugApplicationId" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexBuilderForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="splitsDiscoveryTaskRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for debug on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithDexMergerForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="extractProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="consumeConfigAttr" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'Fragments2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Fragments2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prints out all the source sets defined in this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="sourceSets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintVitalRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="platformAttrExtractor" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleAppClassesDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="resolveConfigAttr" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="writeReleaseApplicationId" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'Fragments2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="splitsDiscoveryTaskDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="bundleAppClassesRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformClassesWithDexBuilderForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="createReleaseCompatibleScreenManifests" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mockableAndroidJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':app'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="bundleAppClassesDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformClassesWithDexBuilderForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="bundleAppClassesReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="testReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build cache directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':app'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="javaPreCompileDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="splitsDiscoveryTaskDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="bundleAppClassesDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="javaPreCompileDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="createDebugCompatibleScreenManifests" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareLintJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="deviceAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithDexMergerForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="writeDebugApplicationId" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformClassesWithDexBuilderForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="javaPreCompileReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="javaPreCompileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="splitsDiscoveryTaskRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for debug on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="connectedDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithDexMergerForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="validateSigningDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="extractProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="consumeConfigAttr" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="javaPreCompileDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="testDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="installDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformResourcesWithMergeJavaResForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':app'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="checkDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prints out all the source sets defined in this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="sourceSets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="lintVitalRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="platformAttrExtractor" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="uninstallDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="mergeDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="bundleAppClassesDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="resolveConfigAttr" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="compileDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="writeReleaseApplicationId" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="generateReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.0-alpha05/3fd29803613060c5719cabea1e3460e84b8d07f6/gradle-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.0-alpha05/12f0566d8c5733651848d36e983a0cd6b40b7b26/gradle-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.0-alpha05/dabf37193c4625a0395385f4f64802659542dff4/gradle-core-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.0-alpha05/7a1f0f56db0ecb2f3c53004cb169ff5b01757aac/gradle-core-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.0-alpha05/51c5cd0133f2a16f7d8d0a6f09fb1b1564efb1db/builder-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.0-alpha05/1b394e1ec90a28d0ff59e8333d0e3868a555162/builder-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.0-alpha05/17c3c23afbd3b59393d2c9b20ba18639615ca9ec/lint-gradle-api-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.0-alpha05/d5f9a0c357a0c5bd113c4d0e5ae3f5409fb57f52/lint-gradle-api-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.0-alpha05/ad8c29977dd7dc223ffe5256323a0a78d47b9aac/gradle-api-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.0-alpha05/e668f737e7f50dfb460aa9b07ff9a2e74b6e4b13/gradle-api-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0-alpha05/d687628b4c38a7de0b7f9c91d0a722d83afdaab9/compilerCommon-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0-alpha05/32bdb5e824c24fd70c223140c370d912b8596bf3/compilerCommon-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.1.4-3/acf05e2b8a5873e8ef074b3a9cdb606302118fd1/kotlin-stdlib-jre8-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.1.4-3/3a4fbf3d403d15b42df34c00d36276f360e39040/kotlin-stdlib-jre8-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/f18536c1fe08673c69e869be170759616a9df16/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/47f6c56527c42425742fa9b56ffd3fd80763fe03/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/5ef31c4fe953b1fd00b8a88fa1d6820e8785bb45/asm-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-analysis-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/6d1bf8989fc7901f868bee3863c44f21aa63d110/asm-analysis-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-commons-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.1/25d8a575034dd9cfcb375a39b5334f0ba9c8474e/asm-commons-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-util-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.1/b60e33a6bd0d71831e0c249816d01e6c1dd90a47/asm-util-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/b6356a696e396a348a673237eee1f496ef75b4b1/org.jacoco.core-0.7.4.201502262128-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/31482f50411a3a5769b6c78fa9b97ba731c205e7/org.jacoco.core-0.7.4.201502262128.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.7.4.201502262128/8a1d7672a72c5b8de35e111ac715d4f87811026/org.jacoco.report-0.7.4.201502262128-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.7.4.201502262128/5c6bb5f95ae695dc4510b95f7d5ad0397e4881ad/org.jacoco.report-0.7.4.201502262128.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.9/d965219b87f79e81b07116d451e684ab2f3acc27/jopt-simple-4.9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.9/ee9e9eaa0a35360dcfeac129ff4923215fd65904/jopt-simple-4.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-gradle/5.3.3/186a5a9fd2f4fee04dced62b8d4d97c88337b53d/proguard-gradle-5.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-gradle/5.3.3/ad23a0505f58d0dfc95bb1472decc397460406c9/proguard-gradle-5.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.0-alpha05/5244d0896fad2f9d4fd4b211ecdba04d64f457f9/builder-model-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.0-alpha05/afd9cc31a8f6c66e6ab7f7f5613563ba4d54d388/builder-model-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.0-alpha05/70c7a8665ab02429e7ff63982abfc225b138d414/builder-test-api-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.0-alpha05/d5ec2bf92f882897e79ec8b53bc86d7560891cf2/builder-test-api-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.0-alpha05/8ba01d51dcd6da260c240ef558788fdf402329ce/sdklib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.0-alpha05/ce5327d40d7baad471bb4188173784f41beeda52/sdklib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.0-alpha05/3995ff816d2160fd4e57a469229398a1090b13b5/sdk-common-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.0-alpha05/8582159f764255fc89f1300c31b1ffc9bbdeacf8/sdk-common-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.0-alpha05/74b89ce71f3c2a7f6eb35f057c888851adb4879f/common-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.0-alpha05/2f595c391a38935e5a3035d2c0e83f0b58ce6f5c/common-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.0-alpha05/6ed56f962c52f335f4c5d4f85286eb87e6d18128/manifest-merger-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.0-alpha05/92dc470a77e7dabd90f70a00c16eb9804bf4e6a3/manifest-merger-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.0-alpha05/7d24317705a66fca2cdd3bee72d79a76a8de8285/ddmlib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.0-alpha05/f6c17995f9338f8bea3f87dbf4b0aaf963d2f878/ddmlib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.0-alpha05/df025ba2e7ea266c6bb7a69fd879e1866b640791/protos-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.0-alpha05/ce13e78cd5920b313d9c1c5c021d7fd179d91a62/protos-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.0-alpha05/89992b26806d98f43c132745b4d45d06367805de/shared-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.0-alpha05/74287bfc130f5dd41e049343d50b5535de70f8af/shared-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.0-alpha05/ed7b72642dec2138edad194a3913a7208b5c8705/tracker-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.0-alpha05/4caa7f9cf8fe805e1eb08f8435221c103d10c962/tracker-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.0-alpha05/7bfa8cf15ca3c5e12b36662d6db302c664928a85/apksig-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.0-alpha05/c041e261e3e5732200553f3ac0c935182b9ca32/apksig-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/118b4633c59394749b2b2f278138beb31c930663/bcpkix-jdk15on-1.56-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/4648af70268b6fdb24674fb1fd7c1fcc73db1231/bcpkix-jdk15on-1.56.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/93c7b191596378df51c31b7d8717f71b0aeee53c/bcprov-jdk15on-1.56-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/a153c6f9744a3e9dd6feab5e210e1c9861362ec7/bcprov-jdk15on-1.56.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-tree-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.1/87b38c12a0ea645791ead9d3e74ae5268d1d6c34/asm-tree-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.2.0/a1a8e178d7813bb9596ee4e3d5e07b90ebe660af/fastutil-7.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.2.0/5ad3a2bb04143f70aa0765fc29fc29571a7d6b34/fastutil-7.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.4-3/1a8d0c6759f620de77381bbc9a93ac1a26553b67/kotlin-reflect-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.4-3/9994f843b30b9d6f4b39b742ffb8637eb86d08d8/kotlin-reflect-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.0-alpha05/e88910aa707022e1f20d47a31a0a721f466fcbeb/baseLibrary-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.0-alpha05/f1a29db9742450d41efc2e10c43f9be5d8906869/baseLibrary-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/e836b2a7348320a86c3bbd91a032486798e6ab98/antlr4-4.5.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1/antlr4-4.5.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/77979eaa98f90806f984155f44f63cc1fb60ac25/juniversalchardet-1.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/cd49678784c46aa8789c060538e0154013bb421b/juniversalchardet-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/55edc69e4fc937f4e58e577bb144b824c0ec7c55/guava-22.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/3564ef3803de51fb0530a8377ec6100b33b0d073/guava-22.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.0-alpha05/845a2e02bd878f1e15246236ee45ff32af332df/annotations-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.0-alpha05/8c4b68567ba522cd0b404f8e73f82da52a7b9957/annotations-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/988b6b0636ce343d4962b3b37f6319dcc6e99a61/proguard-base-5.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.0-alpha05/7aa6e4688f237ea8750f3eacb18baa70855e6157/layoutlib-api-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.0-alpha05/ac7e9b5a74fc7c6a385a80d4705d5650f107418d/layoutlib-api-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.0-alpha05/dbcd96f1ec9caf3b562c915d831383fba2e62834/dvlib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.0-alpha05/2bea5c549bb4a095425a51664feddbfbf9860bad/dvlib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.0-alpha05/984e6a4acd097241ae357026b2384390d821143f/repository-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.0-alpha05/fd07161a2ed2a11b3c17865951d9014fc9b8b4f0/repository-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/21e31b9298ed677b17fcac6dd0eb0a82ec35adc2/gson-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/b4e00fa279b1d45af3cb6daebcc1fee3f5402392/httpclient-4.2.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/e4ca30a6a3a075053a61c6fc850d2432dc012ba7/httpclient-4.2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.1/3ac83213baeab2b21fde6c0bf47ed68ea3e6a8da/httpmime-4.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.1/9ba2dcdf94ce35c8a8e9bff242db0618ca932e92/httpmime-4.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.0.0/ec34cadf001ccb864192e0441800f0b3bbf7ffcf/protobuf-java-3.0.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.0.0/6d325aa7c921661d84577c0a93d82da4df9fa4c8/protobuf-java-3.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/309cd2cff7260e465792fda3dcbb063b730d8050/kxml2-2.3.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4-3/3f64b358bd71a3b615c8cb90f35c3152492d4b27/kotlin-stdlib-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4-3/7f07ece855a7d40d5ef430218593e92282ae2a74/kotlin-stdlib-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/a2e6f6d75b7fa7e8eedb3062e5bfd24cc9fe8591/jimfs-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.5/4fd9ac94cd3c26551bc7aecd62fce8e49f076635/httpcore-4.2.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.5/472f0f5f8dba5d1962cb9d7739feed739a31c30d/httpcore-4.2.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.4-3/c2ecdd88b7e07ff2337fcb23c75ec9aa33b5fcef/kotlin-stdlib-jre7-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.4-3/e8c9cbfa33a3015fcc7581fe6a60a355bf7cd92c/kotlin-stdlib-jre7-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/220c1232fa6d13b427c10ccc1243a87f5f501d31/error_prone_annotations-2.0.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/app">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.0-alpha05/3fd29803613060c5719cabea1e3460e84b8d07f6/gradle-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.0-alpha05/12f0566d8c5733651848d36e983a0cd6b40b7b26/gradle-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.0-alpha05/dabf37193c4625a0395385f4f64802659542dff4/gradle-core-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.0-alpha05/7a1f0f56db0ecb2f3c53004cb169ff5b01757aac/gradle-core-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.0-alpha05/51c5cd0133f2a16f7d8d0a6f09fb1b1564efb1db/builder-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.0-alpha05/1b394e1ec90a28d0ff59e8333d0e3868a555162/builder-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.0-alpha05/17c3c23afbd3b59393d2c9b20ba18639615ca9ec/lint-gradle-api-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.0-alpha05/d5f9a0c357a0c5bd113c4d0e5ae3f5409fb57f52/lint-gradle-api-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.0-alpha05/ad8c29977dd7dc223ffe5256323a0a78d47b9aac/gradle-api-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.0-alpha05/e668f737e7f50dfb460aa9b07ff9a2e74b6e4b13/gradle-api-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0-alpha05/d687628b4c38a7de0b7f9c91d0a722d83afdaab9/compilerCommon-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0-alpha05/32bdb5e824c24fd70c223140c370d912b8596bf3/compilerCommon-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.1.4-3/acf05e2b8a5873e8ef074b3a9cdb606302118fd1/kotlin-stdlib-jre8-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.1.4-3/3a4fbf3d403d15b42df34c00d36276f360e39040/kotlin-stdlib-jre8-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/f18536c1fe08673c69e869be170759616a9df16/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/47f6c56527c42425742fa9b56ffd3fd80763fe03/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/5ef31c4fe953b1fd00b8a88fa1d6820e8785bb45/asm-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-analysis-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/6d1bf8989fc7901f868bee3863c44f21aa63d110/asm-analysis-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-commons-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.1/25d8a575034dd9cfcb375a39b5334f0ba9c8474e/asm-commons-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-util-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.1/b60e33a6bd0d71831e0c249816d01e6c1dd90a47/asm-util-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/b6356a696e396a348a673237eee1f496ef75b4b1/org.jacoco.core-0.7.4.201502262128-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/31482f50411a3a5769b6c78fa9b97ba731c205e7/org.jacoco.core-0.7.4.201502262128.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.7.4.201502262128/8a1d7672a72c5b8de35e111ac715d4f87811026/org.jacoco.report-0.7.4.201502262128-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.report/0.7.4.201502262128/5c6bb5f95ae695dc4510b95f7d5ad0397e4881ad/org.jacoco.report-0.7.4.201502262128.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.9/d965219b87f79e81b07116d451e684ab2f3acc27/jopt-simple-4.9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.9/ee9e9eaa0a35360dcfeac129ff4923215fd65904/jopt-simple-4.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-gradle/5.3.3/186a5a9fd2f4fee04dced62b8d4d97c88337b53d/proguard-gradle-5.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-gradle/5.3.3/ad23a0505f58d0dfc95bb1472decc397460406c9/proguard-gradle-5.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.0-alpha05/5244d0896fad2f9d4fd4b211ecdba04d64f457f9/builder-model-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.0-alpha05/afd9cc31a8f6c66e6ab7f7f5613563ba4d54d388/builder-model-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.0-alpha05/70c7a8665ab02429e7ff63982abfc225b138d414/builder-test-api-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.0-alpha05/d5ec2bf92f882897e79ec8b53bc86d7560891cf2/builder-test-api-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.0-alpha05/8ba01d51dcd6da260c240ef558788fdf402329ce/sdklib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.0-alpha05/ce5327d40d7baad471bb4188173784f41beeda52/sdklib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.0-alpha05/3995ff816d2160fd4e57a469229398a1090b13b5/sdk-common-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.0-alpha05/8582159f764255fc89f1300c31b1ffc9bbdeacf8/sdk-common-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.0-alpha05/74b89ce71f3c2a7f6eb35f057c888851adb4879f/common-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.0-alpha05/2f595c391a38935e5a3035d2c0e83f0b58ce6f5c/common-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.0-alpha05/6ed56f962c52f335f4c5d4f85286eb87e6d18128/manifest-merger-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.0-alpha05/92dc470a77e7dabd90f70a00c16eb9804bf4e6a3/manifest-merger-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.0-alpha05/7d24317705a66fca2cdd3bee72d79a76a8de8285/ddmlib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.0-alpha05/f6c17995f9338f8bea3f87dbf4b0aaf963d2f878/ddmlib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.0-alpha05/df025ba2e7ea266c6bb7a69fd879e1866b640791/protos-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.0-alpha05/ce13e78cd5920b313d9c1c5c021d7fd179d91a62/protos-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.0-alpha05/89992b26806d98f43c132745b4d45d06367805de/shared-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.0-alpha05/74287bfc130f5dd41e049343d50b5535de70f8af/shared-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.0-alpha05/ed7b72642dec2138edad194a3913a7208b5c8705/tracker-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.0-alpha05/4caa7f9cf8fe805e1eb08f8435221c103d10c962/tracker-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.0-alpha05/7bfa8cf15ca3c5e12b36662d6db302c664928a85/apksig-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.0-alpha05/c041e261e3e5732200553f3ac0c935182b9ca32/apksig-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/118b4633c59394749b2b2f278138beb31c930663/bcpkix-jdk15on-1.56-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/4648af70268b6fdb24674fb1fd7c1fcc73db1231/bcpkix-jdk15on-1.56.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/93c7b191596378df51c31b7d8717f71b0aeee53c/bcprov-jdk15on-1.56-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/a153c6f9744a3e9dd6feab5e210e1c9861362ec7/bcprov-jdk15on-1.56.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-tree-5.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.1/87b38c12a0ea645791ead9d3e74ae5268d1d6c34/asm-tree-5.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.2.0/a1a8e178d7813bb9596ee4e3d5e07b90ebe660af/fastutil-7.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/7.2.0/5ad3a2bb04143f70aa0765fc29fc29571a7d6b34/fastutil-7.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.4-3/1a8d0c6759f620de77381bbc9a93ac1a26553b67/kotlin-reflect-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.4-3/9994f843b30b9d6f4b39b742ffb8637eb86d08d8/kotlin-reflect-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.0-alpha05/e88910aa707022e1f20d47a31a0a721f466fcbeb/baseLibrary-3.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.0-alpha05/f1a29db9742450d41efc2e10c43f9be5d8906869/baseLibrary-3.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/e836b2a7348320a86c3bbd91a032486798e6ab98/antlr4-4.5.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1/antlr4-4.5.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/77979eaa98f90806f984155f44f63cc1fb60ac25/juniversalchardet-1.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/cd49678784c46aa8789c060538e0154013bb421b/juniversalchardet-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/55edc69e4fc937f4e58e577bb144b824c0ec7c55/guava-22.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/22.0/3564ef3803de51fb0530a8377ec6100b33b0d073/guava-22.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.0-alpha05/845a2e02bd878f1e15246236ee45ff32af332df/annotations-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.0-alpha05/8c4b68567ba522cd0b404f8e73f82da52a7b9957/annotations-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/988b6b0636ce343d4962b3b37f6319dcc6e99a61/proguard-base-5.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.0-alpha05/7aa6e4688f237ea8750f3eacb18baa70855e6157/layoutlib-api-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.0-alpha05/ac7e9b5a74fc7c6a385a80d4705d5650f107418d/layoutlib-api-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.0-alpha05/dbcd96f1ec9caf3b562c915d831383fba2e62834/dvlib-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.0-alpha05/2bea5c549bb4a095425a51664feddbfbf9860bad/dvlib-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.0-alpha05/984e6a4acd097241ae357026b2384390d821143f/repository-26.1.0-alpha05-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.0-alpha05/fd07161a2ed2a11b3c17865951d9014fc9b8b4f0/repository-26.1.0-alpha05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/21e31b9298ed677b17fcac6dd0eb0a82ec35adc2/gson-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/b4e00fa279b1d45af3cb6daebcc1fee3f5402392/httpclient-4.2.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/e4ca30a6a3a075053a61c6fc850d2432dc012ba7/httpclient-4.2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.1/3ac83213baeab2b21fde6c0bf47ed68ea3e6a8da/httpmime-4.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.1/9ba2dcdf94ce35c8a8e9bff242db0618ca932e92/httpmime-4.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.0.0/ec34cadf001ccb864192e0441800f0b3bbf7ffcf/protobuf-java-3.0.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.0.0/6d325aa7c921661d84577c0a93d82da4df9fa4c8/protobuf-java-3.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/309cd2cff7260e465792fda3dcbb063b730d8050/kxml2-2.3.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4-3/3f64b358bd71a3b615c8cb90f35c3152492d4b27/kotlin-stdlib-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4-3/7f07ece855a7d40d5ef430218593e92282ae2a74/kotlin-stdlib-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/a2e6f6d75b7fa7e8eedb3062e5bfd24cc9fe8591/jimfs-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.5/4fd9ac94cd3c26551bc7aecd62fce8e49f076635/httpcore-4.2.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.5/472f0f5f8dba5d1962cb9d7739feed739a31c30d/httpcore-4.2.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.4-3/c2ecdd88b7e07ff2337fcb23c75ec9aa33b5fcef/kotlin-stdlib-jre7-1.1.4-3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.4-3/e8c9cbfa33a3015fcc7581fe6a60a355bf7cd92c/kotlin-stdlib-jre7-1.1.4-3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/220c1232fa6d13b427c10ccc1243a87f5f501d31/error_prone_annotations-2.0.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/app" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="Fragments2" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-kotlin-dsl-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-20171031235950+0000-all/b1bgnhq4n8vf44i6oeaskdif9/gradle-4.4-20171031235950+0000/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/FragmentA.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="94" />
+    <option name="y" value="36" />
+    <option name="width" value="1290" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fragments2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fragments2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fragments2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fragments2" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Nexus_4_API_23_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513594142967" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513594142968" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Fragments2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513594142972" />
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android App.app" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="481420fb-de36-48a3-920f-9c4f468eaf59" name="Default" comment="" />
+      <created>1507977026099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507977026099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="94" y="36" width="1290" height="944" extended-state="0" />
+    <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/FragmentA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/FragmentA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ted/fragments2/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

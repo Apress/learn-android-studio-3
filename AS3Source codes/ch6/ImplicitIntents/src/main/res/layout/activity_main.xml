@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.example.ted.implicitintents.MainActivity">
+
+  <Button
+    android:id="@+id/btnwebaddress"
+    android:layout_width="126dp"
+    android:layout_height="0dp"
+    android:layout_marginBottom="80dp"
+    android:layout_marginTop="69dp"
+    android:text="Web address"
+    app:layout_constraintBottom_toTopOf="@+id/btnphonenumber"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    />
+
+  <Button
+    android:id="@+id/btnmap"
+    android:layout_width="127dp"
+    android:layout_height="48dp"
+    android:layout_marginTop="24dp"
+    android:text="Map"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/btnwebaddress"
+    />
+
+  <Button
+    android:id="@+id/btnphonenumber"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="264dp"
+    android:layout_marginTop="24dp"
+    android:text="Phone Number"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/btnmap"
+    />
+</android.support.constraint.ConstraintLayout>

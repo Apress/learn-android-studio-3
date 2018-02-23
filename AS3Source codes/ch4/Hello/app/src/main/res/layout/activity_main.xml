@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.example.ted.hello.MainActivity"
+  tools:layout_editor_absoluteX="0dp"
+  tools:layout_editor_absoluteY="81dp">
+
+  <EditText
+    android:id="@+id/editText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="32dp"
+    android:layout_marginTop="40dp"
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:text="Name"
+    app:layout_constraintStart_toStartOf="@+id/guideline"
+    app:layout_constraintTop_toTopOf="parent"
+    tools:layout_editor_absoluteX="20dp"
+    tools:layout_editor_absoluteY="40dp"/>
+
+  <Button
+    android:id="@+id/button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="32dp"
+    android:layout_marginTop="158dp"
+    android:text="Button"
+    app:layout_constraintStart_toStartOf="@+id/guideline"
+    app:layout_constraintTop_toTopOf="parent"
+    tools:layout_editor_absoluteX="20dp"
+    tools:layout_editor_absoluteY="158dp"/>
+
+  <TextView
+    android:id="@+id/textView2"
+    android:layout_width="0dp"
+    android:layout_height="27dp"
+    android:layout_marginBottom="67dp"
+    android:layout_marginEnd="2dp"
+    android:layout_marginStart="32dp"
+    android:layout_marginTop="68dp"
+    android:text="TextView"
+    app:layout_constraintBottom_toBottomOf="@+id/button"
+    app:layout_constraintEnd_toEndOf="@+id/editText"
+    app:layout_constraintStart_toStartOf="@+id/guideline"
+    app:layout_constraintTop_toBottomOf="@+id/guideline2"
+    tools:layout_editor_absoluteX="20dp"
+    tools:layout_editor_absoluteY="112dp"/>
+
+  <android.support.constraint.Guideline
+    android:id="@+id/guideline"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:layout_constraintGuide_end="364dp"
+    tools:layout_editor_absoluteX="20dp"
+    tools:layout_editor_absoluteY="0dp"/>
+
+  <android.support.constraint.Guideline
+    android:id="@+id/guideline2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_constraintGuide_begin="43dp"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="43dp"/>
+
+</android.support.constraint.ConstraintLayout>

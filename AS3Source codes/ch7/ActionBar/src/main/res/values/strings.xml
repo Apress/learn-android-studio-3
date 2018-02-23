@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">ActionBar</string>
+  <string name="menuFile">File</string>
+  <string name="menuEdit">Edit</string>
+  <string name="menuHelp">Help</string>
+  <string name="menuExit">Exit</string>
+</resources>
