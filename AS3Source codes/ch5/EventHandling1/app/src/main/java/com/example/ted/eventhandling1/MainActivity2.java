@@ -17,6 +17,15 @@ public class MainActivity2 extends AppCompatActivity implements View.OnClickList
   protected void onCreate(@Nullable Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
+
+    /*
+      The next 3 statements were accidentally removed during
+      the time of book writing.
+    */
+
+    findViewById(R.id.button1).setOnClickListener(this);
+    findViewById(R.id.button2).setOnClickListener(this);
+    findViewById(R.id.button3).setOnClickListener(this);
   }
 
   @Override
